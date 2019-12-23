@@ -1,39 +1,49 @@
 console.log("This is my index.js");
 // Data is an array of objects which contains information about the candidates
 const data = [
-    {
-        name: 'Itishmita Mishra',
-        age: 21,
-        city: 'Raigarh',
-        language: 'Python',
-        framework: 'Spyder',
-        image: 'img/iti.jfif'
-    },
-
-    {
-        name: 'Anjali Deep',
-        age: 22,
-        city: 'Delhi',
+   {
+        name: 'Rohan Das',
+        age: 18,
+        city: 'Kolkata',
         language: 'Python',
         framework: 'Django',
-        image: 'img/anjali.jpg'
+        image: 'https://randomuser.me/api/portraits/men/51.jpg'
     },
 
     {
-        name: 'Suraj Dhankhar',
-        age: 21,
-        city: 'Korba',
-        language: 'Python',
-        framework: 'Spyder',
-        image: 'img/suraj.jpg'
-    },
-    {
-        name: 'Sohaib Khan',
-        age: 24,
-        city: 'Delhi',
-        language: 'Javascript',
+        name: 'Shubham Sharma',
+        age: 28,
+        city: 'Bangalore',
+        language: 'JavaScript',
         framework: 'Angular',
-        image: 'img/sohaib.jpg'
+        image: 'https://randomuser.me/api/portraits/men/54.jpg'
+    },
+
+    {
+        name: 'Camella Cabello',
+        age: 18,
+        city: 'Kolkata',
+        language: 'Python',
+        framework: 'Django',
+        image: 'https://randomuser.me/api/portraits/women/55.jpg'
+    },
+
+    {
+        name: 'Aishwariya Rai',
+        age: 45,
+        city: 'Mumbai',
+        language: 'Python',
+        framework: 'Flask',
+        image: 'https://randomuser.me/api/portraits/women/57.jpg'
+    },
+
+    {
+        name: 'Rohit Sharma',
+        age: 34,
+        city: 'Jharkhand',
+        language: 'Go',
+        framework: 'Go Framework',
+        image: 'https://randomuser.me/api/portraits/men/61.jpg'
     }
 ]
 
